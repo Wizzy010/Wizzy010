@@ -45,9 +45,14 @@
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Wizzy010&show_icons=true&theme=dark&locale=en" alt="Wizzy010" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wizzy010&show_icons=true&theme=dark&locale=en&layout=compact" alt="Wizzy010" /> </td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizzy010&" alt="Wizzy010" /></td>
     </tr>
   </table>
+  
+  <div>
+ <p align="center">
+    <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizzy010&" alt="Wizzy010" /></a>
+  </p>
+</div>
 
 
 
